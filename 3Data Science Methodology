@@ -1,2 +1,29 @@
 Prueba Curso 3 Data Science Methodology
 Archivo final .ipynb acerca de un caso de cocina con data science.
+
+# Título del proyecto: "Análisis de datos para mejorar la eficiencia en la asignación de recursos hospitalarios"
+
+Problema: El hospital enfrenta desafíos en la asignación de recursos, como camas, personal médico y equipos, 
+lo que puede llevar a una falta de eficiencia y optimización en la prestación de servicios de atención médica.
+
+Pregunta: ¿Cómo podemos utilizar los datos para mejorar la asignación de recursos en el hospital y 
+aumentar la eficiencia en la prestación de servicios de atención médica?
+
+Enfoque analítico: Utilizaríamos técnicas de análisis de datos, como la minería de datos y el aprendizaje automático, 
+para identificar patrones y tendencias en los datos relacionados con la asignación de recursos hospitalarios. 
+Esto nos permitiría desarrollar modelos y algoritmos que optimicen la asignación de recursos y mejoren la eficiencia.
+
+Requisitos de datos: Necesitaríamos datos que incluyan información sobre la disponibilidad de camas, la carga de 
+trabajo del personal médico, los equipos médicos utilizados y otros factores relevantes para la asignación de recursos hospitalarios.
+
+Recopilación de datos: Recolectaríamos datos de fuentes internas del hospital, como sistemas de información hospitalaria y registros médicos electrónicos. 
+También podríamos considerar la posibilidad de obtener datos externos, como datos demográficos de la población atendida por el hospital.
+
+Comprensión y preparación de datos: Realizaríamos un análisis exploratorio de los datos para comprender su estructura y calidad. 
+Luego, realizaríamos tareas de limpieza, transformación y selección de características para preparar los datos para su posterior análisis y modelado.
+
+Modelado y evaluación: Desarrollaríamos modelos y algoritmos utilizando técnicas de aprendizaje automático, como la regresión, clasificación o agrupación, 
+dependiendo del problema específico de asignación de recursos. Evaluaríamos y ajustaríamos los modelos utilizando métricas y técnicas de validación adecuadas 
+para garantizar su eficacia y precisión en la mejora de la asignación de recursos en el hospital.
+
+Traducción
